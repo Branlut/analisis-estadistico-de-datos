@@ -20,7 +20,7 @@ Realizar un análisis preliminar de las tarifas basado en una selección de clie
 
 ### llamadas
 - La media para los 2 planes son parecidas el plan surf tiene una media aproximada de 404.76 y el plan ultimate 406.19 esto indica que consumen casi los mismos minutos por llama mensualmente pero las personas del plan ultimate tienden a usar mas minutos.
-- La mediana como se puede apreciar son casi iguales para el plan surf es 401.76 aproximadamente y para el plan ultimate 398.58 por lo que el promedio de personas que hablan 400 o mas mayo a las personas que hablan menos de 400 minutos
+- La mediana como se puede apreciar son casi iguales para el plan surf es 401.76 aproximadamente y para el plan ultimate 398.58 por lo que el promedio de personas que hablan 400 o mas es mayor a las personas que hablan menos de 400 minutos
 - La varianza es mucho mayor a la media en ambos casos por lo que los datos estan mayormente dispersos de esta siendo mayor la varianza del plan ultimate por lo que se puede concluir que tiene una mayor cantidad de minutos mayor a la media
 
 ### Mensajes
