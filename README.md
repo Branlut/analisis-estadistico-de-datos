@@ -31,19 +31,19 @@ Realizar un análisis preliminar de las tarifas basado en una selección de clie
 
 ### Internet
 - La media como se ha estado repitiendo es mayor para el plan ultimate 
-- En este caso la mediana es casi edentica entre los 2 planes
+- En este caso la mediana es casi identica entre los 2 planes
 - La varianza es mayor a la media en los planes, el plan surf tiene una varianza mayor lo que quiere decir que cuenta con datos mas dispersos
 - Varia muy poco el consumo que tiene entre los 2 planes
 
 ### Ingreso
 - La media difiere bastante en comparacion con los datos de los minutos, mensajes e internet ya que la media del plan surf es mucho mayor que la del plan ultimate esto quiere decir que las personas tienden a pagar mas en el plan surf mensualmente
-- En ambos casos la media es superior a la mediana como se venia analisando con demas datos pero la diferencia entre los planes es bastante grande 
+- En ambos casos la media es superior a la mediana como se venia analizando con demas datos pero la diferencia entre los planes es bastante grande 
 - La varianza es mucho mayor a la media en ambos casos por lo que los datos estan dispersos de esta, pero la varianza del plan surf es mucho mayor lo que indica que tiene una mayor dipersion en comparacion que el plan ultimate 
-- Con esto podemos ver que las personas del plan surf pagan mas mensualmente, teniendo en conisderacion las caracteristicas de cada plan y la cantidad de personas que tienen, por lo que se podria argumentar que las personas del plan surf sobrepasan ya sea los minutos, cantidad de mensajes o internet llevando a pagar por exceder estos y las personas del ultimate tienden a no pasar el limite del plan haciendo que estos solo paguen la mensualidad y no los excedentes
+- Con esto podemos ver que las personas del plan surf pagan mas mensualmente, teniendo en consideracion las caracteristicas de cada plan y la cantidad de personas que tienen, por lo que se podria argumentar que las personas del plan surf sobrepasan ya sea los minutos, cantidad de mensajes o internet llevando a pagar por exceder estos y las personas del ultimate tienden a no pasar el limite del plan haciendo que estos solo paguen la mensualidad y no los excedentes
 
 ## Hipótesis
  ### son diferentes los ingresos promedio procedentes de los usuarios de los planes de llamada Ultimate y Surf
-- La hipótesis nula se rechazo por lo cual los ingreses de los usuarios ultimate y surf son diferents
+- La hipótesis nula se rechazo por lo cual los ingreses de los usuarios ultimate y surf son diferentes
 
 ### el ingreso promedio de los usuarios del área NY-NJ es diferente al de los usuarios de otras regiones
 - La hipótesis nula se rechazo lo que quiere decir que el ingreso promedio de los usuarioa de las regiones NY-NJ difieren de las demas
