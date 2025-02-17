@@ -46,7 +46,7 @@ Realizar un análisis preliminar de las tarifas basado en una selección de clie
 - La hipótesis nula se rechazo por lo cual los ingreses de los usuarios ultimate y surf son diferentes
 
 ### el ingreso promedio de los usuarios del área NY-NJ es diferente al de los usuarios de otras regiones
-- La hipótesis nula se rechazo lo que quiere decir que el ingreso promedio de los usuarioa de las regiones NY-NJ difieren de las demas
+- La hipótesis nula se rechazo lo que quiere decir que el ingreso promedio de los usuarios de las regiones NY-NJ difieren de las demas
 
 # Conclusiones
 
